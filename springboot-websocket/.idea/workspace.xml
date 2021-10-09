@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0f49977-f888-4f6f-b777-a0f473777cbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/conf/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/conf/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-socket/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-socket/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g2th7QkYeryvsK39Feogft29ou" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.JRebelSettingsComponent" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWebsocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-websocket" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.whsoft.springbootwebsocket.SpringbootWebsocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0f49977-f888-4f6f-b777-a0f473777cbf" name="Default Changelist" comment="" />
+      <created>1597324630471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597324630471</updated>
+      <workItem from="1597324635118" duration="1944000" />
+      <workItem from="1597329354685" duration="3000" />
+      <workItem from="1597492218677" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1206" height="472" key="GridCell.Tab.0.bottom" timestamp="1597492638185">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.0.bottom/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638185" />
+    <state width="1206" height="472" key="GridCell.Tab.0.center" timestamp="1597492638184">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.0.center/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638184" />
+    <state width="1206" height="472" key="GridCell.Tab.0.left" timestamp="1597492638184">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.0.left/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638184" />
+    <state width="1206" height="472" key="GridCell.Tab.0.right" timestamp="1597492638184">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.0.right/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638184" />
+    <state width="1206" height="472" key="GridCell.Tab.1.bottom" timestamp="1597492638185">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.1.bottom/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638185" />
+    <state width="1206" height="472" key="GridCell.Tab.1.center" timestamp="1597492638185">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.1.center/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638185" />
+    <state width="1206" height="472" key="GridCell.Tab.1.left" timestamp="1597492638185">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.1.left/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638185" />
+    <state width="1206" height="472" key="GridCell.Tab.1.right" timestamp="1597492638185">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.1.right/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638185" />
+    <state width="1206" height="472" key="GridCell.Tab.2.bottom" timestamp="1597492638187">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.2.bottom/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638187" />
+    <state width="1206" height="472" key="GridCell.Tab.2.center" timestamp="1597492638186">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.2.center/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638186" />
+    <state width="1206" height="472" key="GridCell.Tab.2.left" timestamp="1597492638186">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.2.left/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638186" />
+    <state width="1206" height="472" key="GridCell.Tab.2.right" timestamp="1597492638186">
+      <screen x="48" y="27" width="2512" height="1413" />
+    </state>
+    <state width="1206" height="472" key="GridCell.Tab.2.right/48.27.2512.1413@48.27.2512.1413" timestamp="1597492638186" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/controller/WsController.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/controller/WsController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/controller/WsController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/controller/WsController.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/controller/WsController.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/conf/WebSocketConfig.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/whsoft/springbootwebsocket/conf/WebSocketConfig.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

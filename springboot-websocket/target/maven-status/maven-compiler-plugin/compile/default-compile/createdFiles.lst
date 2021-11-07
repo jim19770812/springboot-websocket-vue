@@ -1,4 +1,4 @@
-com/whsoft/springbootwebsocket/conf/WebSocketConfig.class
 com/whsoft/springbootwebsocket/conf/CorsConfig.class
+com/whsoft/springbootwebsocket/conf/WebSocketConfig.class
 com/whsoft/springbootwebsocket/SpringbootWebsocketApplication.class
 com/whsoft/springbootwebsocket/controller/WsController.class

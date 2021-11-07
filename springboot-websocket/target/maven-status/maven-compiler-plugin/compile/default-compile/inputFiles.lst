@@ -1,4 +1,4 @@
-/home/jim/source/projects/modelon/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/conf/WebSocketConfig.java
-/home/jim/source/projects/modelon/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/SpringbootWebsocketApplication.java
-/home/jim/source/projects/modelon/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/controller/WsController.java
-/home/jim/source/projects/modelon/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/conf/CorsConfig.java
+/home/jim/source/java/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/conf/WebSocketConfig.java
+/home/jim/source/java/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/SpringbootWebsocketApplication.java
+/home/jim/source/java/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/controller/WsController.java
+/home/jim/source/java/springboot-websocket-vue/springboot-websocket/src/main/java/com/whsoft/springbootwebsocket/conf/CorsConfig.java
